@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <link href="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/696e82d810b1e6bac8853dee/55c7be25b_logo.png" rel="icon" type="image/svg+xml"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://lais-cake-delights-copy-6bb1e8bb.base44.app/manifest.json" rel="manifest"/>
+  <title>
+   Laís Cake Delights (Copy)
+  </title>
+  <script crossorigin="" src="/assets/index-B1CA4xMB.js" type="module">
+  </script>
+  <link crossorigin="" href="/assets/index-Ff3qpUIZ.css" rel="stylesheet"/>
+  <meta content="Laís Cake Delights (Copy)" property="og:title"/>
+  <meta content="Confeitaria artesanal que leva o sabor de família para a sua mesa." property="og:description"/>
+  <meta content="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/696e82d810b1e6bac8853dee/55c7be25b_logo.png?width=1200&amp;height=630&amp;resize=contain" property="og:image"/>
+  <meta content="https://lais-cake-delights-copy-6bb1e8bb.base44.app" property="og:url"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Laís Cake Delights (Copy)" property="og:site_name"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Laís Cake Delights (Copy)" name="twitter:title"/>
+  <meta content="Confeitaria artesanal que leva o sabor de família para a sua mesa." name="twitter:description"/>
+  <meta content="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/696e82d810b1e6bac8853dee/55c7be25b_logo.png?width=1200&amp;height=630&amp;resize=contain" name="twitter:image"/>
+  <meta content="https://lais-cake-delights-copy-6bb1e8bb.base44.app" name="twitter:url"/>
+  <meta content="Confeitaria artesanal que leva o sabor de família para a sua mesa." name="description"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="Laís Cake Delights (Copy)" name="apple-mobile-web-app-title"/>
+  <meta content="noindex, nofollow" name="robots"/>
+ </head>
+ <body>
+  <div id="root">
+  </div>
+ </body>
+</html>
